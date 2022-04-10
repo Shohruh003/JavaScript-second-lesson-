@@ -13,3 +13,5 @@ document.querySelector("p").style.fontSize = "36px";
 document.querySelector("p").style.textAlign = "center";
 
 document.querySelector("p").style.color = "red";
+
+document.querySelector("p").style.fontStyle = "italic";
